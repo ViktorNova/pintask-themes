@@ -1,4 +1,5 @@
 html body > .content {
-  background-image: url("http://fc02.deviantart.net/fs71/f/2011/210/3/a/tech_wallpaper_by_snowcakelampan-d420wu1.png");
+  /* background-image: url("http://fc02.deviantart.net/fs71/f/2011/210/3/a/tech_wallpaper_by_snowcakelampan-d420wu1.png"); */
+  background: #000000;
   background-size: cover;
 }
