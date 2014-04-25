@@ -30,6 +30,7 @@ margin-top: 15px;
 }
 /* -------------- Roerich addon -------------- */
 html body > .content {
+background-color: #111111;
 background-image: url("http://fc02.deviantart.net/fs71/f/2011/210/3/a/tech_wallpaper_by_snowcakelampan-d420wu1.png");
 background-size: cover;
 }
