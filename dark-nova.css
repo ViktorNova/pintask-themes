@@ -1,0 +1,49 @@
+/* This was originally forked from the Roerich theme, cause I didn't know what else to use as a base */
+
+.top-content .store-button-panel>a {
+opacity: .3;
+}
+.top-content .store-button-panel:hover>a, .top-content .store-button-panel.current>a {
+opacity: 1;
+}
+div.board-add > a.import.link, div.board-add > div.social-buttons, .bottom-panel-wrap .suggest-enhancement {
+display: none;
+}
+body > div.navigation {
+box-shadow: none;
+}
+body>div.content {
+background-color: #ddd;
+}
+body * {
+box-shadow: none !important;
+}
+.top-content, .top-content .items{
+height: 35px;
+}
+.top-content .items a {
+line-height: 35px;
+}
+html .starring-as-board-list, html .add-list-link-wrapper {
+margin-left: 10px;
+margin-top: 15px;
+}
+/* -------------- Roerich addon -------------- */
+html body > .content {
+background-image: url("http://fc02.deviantart.net/fs71/f/2011/210/3/a/tech_wallpaper_by_snowcakelampan-d420wu1.png");
+background-size: cover;
+}
+/* -------------- Roerich addon -------------- */
+/* -------------- Madewith remove addon -------------- */
+html .navigation .madewith {
+  display: none;
+}
+/* -------------- Madewith remove addon -------------- */
+/* -------------- Opacity addon -------------- */
+html .list-switcher-wrapper, html .starring-as-board-list, html .drag-mode-selector-tool, html .list-switcher-tool, html .add-list-link-wrapper {
+  background-color: rgba(236, 239, 244, 0.85);
+}
+html .starring-as-board-list .add-card.link, html div.add-list-link-wrapper.add-list > a {
+  color: #4ea2dc;
+}
+/* -------------- Opacity addon -------------- */
